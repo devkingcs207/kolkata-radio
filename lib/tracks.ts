@@ -105,6 +105,9 @@ const notun: Track[] = [
   { id: "n37", title: "Khela Shesh", artist: "Arijit Singh", film: "Bengali release", year: 2025, videoId: "TODO" },
   { id: "n38", title: "Nei Khoti Nei", artist: "Arijit Singh", film: "Bengali release", year: 2025, videoId: "TODO" },
   { id: "n39", title: "Samantaral", artist: "Arijit Singh", film: "Bengali release", year: 2025, videoId: "TODO" },
+
+ { id: "n40", title: "Oi Sagar Pare Aishya Amar", artist: "Tasrif Khan", film: "Single", year: 2021, videoId: "fdEu2zHRMIc" },
+
 ];
 
 export const playlists: Playlist[] = [
