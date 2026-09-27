@@ -28,7 +28,6 @@ const purono: Track[] = [
   { id: "p03", title: "Musafir Hoon Yaaron", artist: "Kishore Kumar", film: "Parichay", year: 1972, videoId: "cHLgOcsngTI" },
   { id: "p04", title: "Pal Pal Dil Ke Paas", artist: "Kishore Kumar", film: "Blackmail", year: 1973, videoId: "AMuRRXCuy-4" },
   { id: "p05", title: "Chura Liya Hai Tumne Jo Dil Ko", artist: "Asha Bhosle, Mohammed Rafi", film: "Yaadon Ki Baaraat", year: 1973, videoId: "seFeZOgyFsc" },
-  { id: "p06", title: "Zindagi Ke Safar Mein", artist: "TODO: singer", film: "Aap Ki Kasam", year: 1974, videoId: "TODO" },
   { id: "p06", title: "Zindagi Ke Safar Mein", artist: "TODO: singer", film: "Aap Ki Kasam", year: 1974, videoId: "aymaeGv3BDc" },
 
 { id: "p07", title: "Ek Ajnabee Haseena Se", artist: "TODO: singer", film: "Ajnabee", year: 1974, videoId: "vHg9WMmSfZ4" },
